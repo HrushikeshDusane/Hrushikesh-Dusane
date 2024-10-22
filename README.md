@@ -20,6 +20,6 @@ MBA in Business Analytics & Marketing, Pune University
 B.Sc. in Physics, SMCS, Yeola
 
 💬 Let's Connect:
-LinkedIn: LinkedIn Profile
+LinkedIn: www.linkedin.com/in/hrushikesh-dusane-6925a4229
 
 Email: hrushikeshdusane07@gmail.com
