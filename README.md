@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @HrushikeshDusane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there 👋 I’m Hrushikesh Dusane
+I’m a recent MBA graduate in Business Analytics & Marketing from Pune University, passionate about leveraging data to drive business insights and growth.
 
-<!---
-HrushikeshDusane/HrushikeshDusane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Skills:
+Analytics & Visualization: MS Excel, Power BI
+
+Programming & Data Management: SQL, Python
+
+💼 Experience:
+Business Analyst Intern @ Webmobi360: Led the development of an interview feedback app, enhanced project efficiency by 20%, and coordinated across departments.
+
+📊 Projects:
+SQL Music Store Analysis: Improved customer insights and promotional strategies.
+
+Power BI Superstore Sales Forecasting: Enabled data-driven decisions with detailed sales analysis.
+
+🎓 Education:
+MBA in Business Analytics & Marketing, Pune University
+
+B.Sc. in Physics, SMCS, Yeola
+
+💬 Let's Connect:
+LinkedIn: LinkedIn Profile
+
+Email: hrushikeshdusane07@gmail.com
